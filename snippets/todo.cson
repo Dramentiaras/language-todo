@@ -186,7 +186,7 @@
   'temp':
     'prefix': 'temp'
 
-'.source.scss, .source.sass, .source.css.scss, .source.css.sass, .source.css.less, .source.js, .source.go, .source.scala, .source.ts, .source.php':
+'.source.scss, .source.sass, .source.css.scss, .source.css.sass, .source.css.less, .source.js, .source.js.jsx, .source.js.subtlegradient, .source.go, .source.scala, .source.ts, .source.php':
   'todo':
     'prefix': 'todo'
     'body': '// TODO: $0'
